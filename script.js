@@ -12,7 +12,7 @@ quoteInputElement.addEventListener("input", () => {
     let correct = true
     arrayQuote.forEach((characterSpan, i) => {
         const character = arrayValue[i]
-        
+
         if (character == null) {
             characterSpan.classList.remove("correct")
             characterSpan.classList.remove("incorrect")
@@ -68,3 +68,7 @@ function startTimer() {
  }
 
 renderNewQuote()
+
+quicklink({
+    ignore: /javascript:/
+  })
