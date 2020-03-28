@@ -15,14 +15,14 @@ body, .quote-input {
     font-family: fantasy;
 }
 
-/* .container {
+.container {
     background-color: cyan;
     padding: 1rem;
     border-radius: .5rem;
     width: 700px;
     max-width: 90%;
 
-} */
+}
 
 .timer {
     position: absolute;
