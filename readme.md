@@ -1,6 +1,6 @@
 # Speed Typing Game
 
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+[Let's Play A Game!!!](https://britt-hub.github.io/Typing-Game/)
 
 
 ## Introduction
