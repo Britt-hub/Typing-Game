@@ -1,10 +1,13 @@
 # Speed Typing Game
 
+[a link](https://github.com/user/repo/blob/branch/other_file.md)
+
+
 ## Introduction
 
 > Test your speed when it comes to your typing skills. This is an easy and fun game to see how fast you can type and see how many mistakes you make if any.
 
-![Employee Tracker](https://drive.google.com/file/d/1n5Dcl-B4BsOMv3G1mrLLx3wqe3AG7BI-/preview)
+![Employee Tracker](SpeedTypingGame.gif)
 
 
 ## Code Samples
