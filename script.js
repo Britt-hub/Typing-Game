@@ -69,6 +69,6 @@ function startTimer() {
 
 renderNewQuote()
 
-quicklink({
-    ignore: /javascript:/
-  })
+// quicklink({
+//     ignore: /javascript:/
+//   })
